@@ -1,0 +1,29 @@
+{
+  "library_title": "Classici per chitarra (dominio pubblico)",
+  "items": [
+    {
+      "title": "Lágrima — Francisco Tárrega",
+      "file": "pdfs/lagrima_tarrega.pdf"
+    },
+    {
+      "title": "Recuerdos de la Alhambra — Francisco Tárrega",
+      "file": "pdfs/recuerdos_tarrega.pdf"
+    },
+    {
+      "title": "Andantino (Op.60 n.3) — Matteo Carcassi",
+      "file": "pdfs/andantino_carcassi_op60_3.pdf"
+    },
+    {
+      "title": "Etude (Op.740 n.5) — Mauro Giuliani",
+      "file": "pdfs/etude_giuliani_op740_5.pdf"
+    },
+    {
+      "title": "Etude (Op.60 n.6) — Fernando Sor",
+      "file": "pdfs/etude_sor_op60_6.pdf"
+    },
+    {
+      "title": "Romance Anónimo (Trad.)",
+      "file": "pdfs/romance_anonimo.pdf"
+    }
+  ]
+}
